@@ -15,3 +15,5 @@ Image credits:
     *Siomai: 
         Credit: Getty images/Stockphoto
         Link: https://source.roboflow.com/ywKrUi8LVXcGCS7c4kVKcIwF18K2/1Iu6IWjGvVSmnwTMUDMJ/original.jpg 
+    *Chilled cream dessert:
+        Link: https://freerangestock.com/sample/152673/a-dessert-in-a-glass.jpg 
