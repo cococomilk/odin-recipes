@@ -17,3 +17,5 @@ Image credits:
         Link: https://source.roboflow.com/ywKrUi8LVXcGCS7c4kVKcIwF18K2/1Iu6IWjGvVSmnwTMUDMJ/original.jpg 
     *Chilled cream dessert:
         Link: https://freerangestock.com/sample/152673/a-dessert-in-a-glass.jpg 
+    *Creamed soups:
+        Link: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKV-Afa_vGjfRA8pCXxUJ_eZiEPYvz5K_V9w&s
